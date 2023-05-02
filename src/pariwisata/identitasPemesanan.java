@@ -46,7 +46,7 @@ public class identitasPemesanan extends javax.swing.JFrame {
         getContentPane().add(txt_jumlahSeat, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 430, 180, 40));
         getContentPane().add(txt_harga, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 270, 170, 40));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\Semester 2\\project\\UI\\MacBook Pro 14_ - 5.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/MacBook Pro 14_ - 5.png"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         btn_home.setText("jButton1");

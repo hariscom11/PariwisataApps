@@ -83,7 +83,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="E:\Semester 2\project\UI\MacBook Pro 14_ - 6.png"/>
+          <Image iconType="3" name="/image/MacBook Pro 14_ - 6.png"/>
         </Property>
       </Properties>
       <Constraints>

@@ -80,7 +80,7 @@ koneksi con = new koneksi();
         });
         getContentPane().add(cmb_sesi, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 340, 280, 40));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\Semester 2\\project\\UI\\MacBook Pro 14_ - 4.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/MacBook Pro 14_ - 4.png"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         jButton1.setText("jButton1");

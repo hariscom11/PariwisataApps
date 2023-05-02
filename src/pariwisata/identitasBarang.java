@@ -58,7 +58,7 @@ public class identitasBarang extends javax.swing.JFrame {
         getContentPane().add(txt_jumlah, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 430, 120, 40));
         getContentPane().add(txt_tarif, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 430, 120, 40));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\Semester 2\\project\\UI\\MacBook Pro 14_ - 7.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/MacBook Pro 14_ - 7.png"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         btn_home.setText("jButton1");
