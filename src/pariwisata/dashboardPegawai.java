@@ -10,7 +10,7 @@ package pariwisata;
  * @author Haris
  */
 public class dashboardPegawai extends javax.swing.JFrame {
-
+  
     /**
      * Creates new form dashboardPegawai
      */
